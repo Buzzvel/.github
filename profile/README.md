@@ -1,4 +1,4 @@
-![Buzzvel](https://github.com/Buzzvel/.github/blob/main/profile/banner/buzzvel-banner-github.png)
+![Buzzvel](/profile/banner/buzzvel-banner-github.png)
 
 <h1>Buzzvel</h1>
 <p>Reliable programming Laravel company from Portugal for growing startups and established businesses around the globe</p>

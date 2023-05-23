@@ -1,4 +1,4 @@
-![Buzzvel](/profile/banner/buzzvel-banner.webp)
+![Buzzvel](/profile/banner/buzzvel-banner.png)
 
 # Buzzvel
 Reliable programming Laravel company from Portugal for growing startups and established businesses around the globe.

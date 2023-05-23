@@ -12,4 +12,6 @@ We're a remote company that works from Lisbon to the world, with digital solutio
 ## Links 
 - [Website](https://buzzvel.com)
 - [Carrers at buzzvel](https://buzzvel.com/careers)
+- [Blog](https://buzzvel.com/blog)
+- [Our Team](https://employees.buzzvel.com/)
 
